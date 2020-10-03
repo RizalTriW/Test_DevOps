@@ -1,0 +1,16 @@
+Jawaban Test Devops
+
+1.     Devops adalah profesi IT yang berkerja dengan software developer dan system operator untuk proses
+    build,testing dan release pada sebuah software. Devops sangat penting bagi persuhaan digital karena membantu developer dalam pembuatan software yaitu menyiapkan infrastruktur untuk software/aplikasi yang sudah di buat supaya bisa di akses oleh client dengan mudah dan cepat
+
+3.     menurut saya gitlab lebih frendly di gunakan karena mempermudah dan mempercepat developer backend
+    atau frontend mengerjakan sebuah project software, serta pipeline yang ada di ci/cd gitlab cukup banyak waktunya dan gitlab merupakan aplikasi VCS yang open source atu gratis.
+
+4.     Menggunakan Virtual machine dan Docker Container untuk Development software sangat di saran,    
+    karena jika nanti software yang kita deploy ke server mengalami kerusakan di server kita bisa Build ulang docker tersebut dan tidak akan terpengaruh ke hardware servernya. ini tentu mempermudah Devops dalam deploy aplikasi jika terjadi kerusakan di container docker atau virtual machine.
+    
+6.     FTP (File Transport Protokol) adalah salah satu Tools untuk Upload dan download file dari server
+    ke client, client ke server dan server ke server. lae menggunakan FTP untuk Download file dari server.
+
+    
+Untuk soal no 2,5,6,8,9 berupa file png dan deskripsi.md
